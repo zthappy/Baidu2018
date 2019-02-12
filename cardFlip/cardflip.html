@@ -4,16 +4,48 @@
     <meta charset="utf-8">
     <title>卡片翻转</title>
     <style media="screen">
-        div{
-            margin: 200px auto;
-            width: 800px;
-            height: 800px;
+        .container {
+            position: relative;
+            width: 200px;
+            height:400px;
+            perspective: 350;
+            backface-visibility:hidden;
+        }
+        .container div {
+            width: 100%;
+            height: 100%;
+        }
+        .container .f{
+            position: absolute;
+            z-index: 2;
+            background: red;
+            transition: transform 0.6s linear;
+            backface-visibility:hidden;
+        }
+        .container .s{
+            position: absolute;
+            z-index: 1;
+            transform: rotateY(-180deg);
+            background: green;
+            transition: transform 0.6s linear;
+            backface-visibility:hidden;
+        }
+        .container:hover .f {
+            transform: rotateY(180deg);
+        }
+        .container:hover .s {
+            transform: rotateY(0deg);
         }
     </style>
   </head>
   <body>
     <div >
-        <div></div>
+        <div>
+            <div class='container'>
+                <div class="f">red</div>
+                <div class="s">green</div>
+            </div>
+        </div>
     </div>
     <script src="cardflip.js"></script>
   </body>
