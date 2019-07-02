@@ -1,7 +1,7 @@
 // https://flights.ctrip.com/international/search/api/search/batchSearch
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse)
 {
-    if (request.type == 'test' && request.param) {
+    if (request.type == 'fetch' && request.param) {
         var param = request.param;
         param = JSON.stringify(param)
         // $.ajax({
