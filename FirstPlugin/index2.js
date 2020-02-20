@@ -1,16 +1,9 @@
 (function () {
+
      var firstAppend = true;
      var flightsList = []
      var flights = $("#flightListSearch").children("div:last-child").children("div:last-child")[0]
     
-
-     // flights.addEventListener('click',function(){
-     //      if(!flightsList || !flightsList.length){
-     //           return;
-     //      }
-     //      getHtml(flightsList)
-     // },true)
-
      $(document).on('click', '#flightListSearch div:last-child div:last-child', function(){
           // ...操作
           if(!flightsList || !flightsList.length){
@@ -19,7 +12,15 @@
           getHtml(flightsList)
      });
      
-    
+     function bt() {
+          var e = (new Date).getTime();
+          return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function (t) {
+              var n = (e + 16 * Math.random()) % 16 | 0;
+              return e = Math.floor(e / 16),
+              ("x" == t ? n : 7 & n | 8).toString(16)
+          })
+     }
+     var transactionID = bt().split("-").join("")
 
      // 传参tid生成格式
      function getTid() {
@@ -41,57 +42,104 @@
 
           
           var tid = getTid()
+          // var param = {
+          //      "preprdid":"",
+          //      "trptpe":1, 
+          //      "flag":8,
+          //      "searchitem":[{
+          //           "dccode":fromname, // 出发机场三字码
+          //           "accode":toname, // 到达机场三字码
+          //           "dtime":fromDate // 出发日期
+          //      }],
+          //      "subchannel":null,
+          //      "psgList":[{
+          //           "type":1, // 1，成人，2，儿童，3，婴儿
+          //           "count":adult
+          //      }],
+          //      "token":"2", // 2的时候查询出来的数据更多几条，1应该是缓存，2应该是实时的
+          //      "seat":0,
+          //      "segno":1,
+          //      "tid":tid,
+          //      "head":{
+          //           "cid":"09031147311268805841",
+          //           "ctok":"",
+          //           "cver":"1.0",
+          //           "lang":"01",
+          //           "sid":"8888",
+          //           "syscode":"09",
+          //           "auth":null,
+          //           "extension":[{
+          //                "name":"aid",
+          //                "value":"2150"
+          //           },{
+          //                "name":"sid",
+          //                "value":"2536"
+          //           },{
+          //                "name":"protocal",
+          //                "value":"https"
+          //           }]
+          //      },
+          //      "contentType":"json"
+          // }
+
           var param = {
-               "preprdid":"",
-               "trptpe":1, 
-               "flag":8,
-               "searchitem":[{
-                    "dccode":fromname, // 出发机场三字码
-                    "accode":toname, // 到达机场三字码
-                    "dtime":fromDate // 出发日期
+               "flightWayEnum":"OW",
+               "arrivalProvinceId":53,
+               "arrivalCountryName":"中国",
+               "infantCount":0,
+               "cabin":"Y_S",
+               "cabinEnum":"Y_S",
+               "departCountryName":"中国",
+               "flightSegments":[{
+                    "departureDate":"2019-07-06",
+                    "arrivalProvinceId":53,
+                    "arrivalCountryName":"中国",
+                    "departureCityName":"上海",
+                    "departureCityCode":"SHA",
+                    "departureCountryName":"中国",
+                    "arrivalCityName":"台北",
+                    "arrivalCityCode":"TPE",
+                    "departureCityTimeZone":480,
+                    "arrivalCountryId":1,
+                    "timeZone":480,
+                    "departureCityId":2,
+                    "departureCountryId":1,
+                    "arrivalCityTimeZone":480,
+                    "departureProvinceId":2,
+                    "arrivalCityId":617
                }],
-               "subchannel":null,
-               "psgList":[{
-                    "type":1, // 1，成人，2，儿童，3，婴儿
-                    "count":adult
-               }],
-               "token":"1", // 2的时候查询出来的数据更多几条
-               "seat":0,
-               "segno":1,
-               "tid":tid,
-               "head":{
-                    "cid":"09031147311268805841",
-                    "ctok":"",
-                    "cver":"1.0",
-                    "lang":"01",
-                    "sid":"8888",
-                    "syscode":"09",
-                    "auth":null,
-                    "extension":[{
-                         "name":"aid",
-                         "value":"2150"
-                    },{
-                         "name":"sid",
-                         "value":"2536"
-                    },{
-                         "name":"protocal",
-                         "value":"https"
-                    }]
-               },
-               "contentType":"json"
+               "childCount":0,
+               "segmentNo":1,
+               "adultCount":1,
+               "extensionAttributes":{},
+               "transactionID":transactionID,
+               "directFlight":false,
+               "departureCityId":2,
+               "isMultiplePassengerType":0,
+               "flightWay":"S",
+               "arrivalCityId":617,
+               "departProvinceId":2
           }
-          if(child > 0) {
-               param.psgList.push({
-                    "type":2, // 1，成人，2，儿童，3，婴儿
-                    "count":child
-               })
-          }
+          // if(child > 0) {
+          //      param.psgList.push({
+          //           "type":2, // 1，成人，2，儿童，3，婴儿
+          //           "count":child
+          //      })
+          // }
+          // if(toDate) {
+          //     param.searchitem.push({
+          //           "dccode":toname, // 出发机场三字码
+          //           "accode":fromname, // 到达机场三字码
+          //           "dtime":toDate // 出发日期
+          //     }) 
+          // }
           chrome.runtime.sendMessage({
                type:'fetch',
                param: param
           }, function(response) {
-               var res = JSON.parse(JSON.stringify(response))
-               flightsList = dealMessage(res) // 接口请求返回的参数
+               // var res = JSON.parse(JSON.stringify(response))
+               // flightsList = dealMessage(res) // 接口请求返回的参数
+               console.log(response)
           });
      }
      // 点击搜索，执行查询携程接口

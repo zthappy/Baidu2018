@@ -28,7 +28,8 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse)
         // //         //请求出错处理
         // //     }
         // });
-        fetch('https://m.ctrip.com/restapi/soa2/13212/flightListSearch?_fxpcqlniredt=09031147311268805841',{
+        // fetch('https://m.ctrip.com/restapi/soa2/13212/flightListSearch?_fxpcqlniredt=09031147311268805841',{
+        fetch('https://flights.ctrip.com/international/search/api/search/batchSearch?v='+Math.random(),{
             method: 'POST',
             body: param,
             mode: 'cors',

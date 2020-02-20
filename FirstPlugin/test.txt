@@ -1,0 +1,3701 @@
+{
+	"ResponseStatus": {
+		"Timestamp": "/Date(1562145757866+0800)/",
+		"Ack": "Success",
+		"Errors": [],
+		"Build": null,
+		"Version": null,
+		"Extension": [{
+			"Id": "CLOGGING_TRACE_ID",
+			"Version": null,
+			"ContentType": null,
+			"Value": "1511316011432635618"
+		}, {
+			"Id": "RootMessageId",
+			"Version": null,
+			"ContentType": null,
+			"Value": "921812-0a0f6a6f-433929-1232268"
+		}]
+	},
+	"fltitem": [{
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "CGO",
+				"aportsname": "新郑",
+				"cityname": "郑州",
+				"city": "CGO",
+				"bsname": "T2",
+				"cityid": "559"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ3598",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "73C",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 22:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-06 00:10:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 1
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "CGO",
+				"aportsname": "新郑",
+				"cityname": "郑州",
+				"city": "CGO",
+				"bsname": "T2",
+				"cityid": "559"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ3023",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "73M",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 08:20:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 10:50:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1960,
+				"tax": 340,
+				"ticket": 9,
+				"attr": {
+					"sort": 2280.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwaDAwNTBFM2NXbjBlVzA2MEJwc1duGSEdARxHMDBCemU1MQEJKDBSR3gwTzAwWEQwGSwQUSIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 765,
+		"fltoday": 1,
+		"painindex": 4850
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX235",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33T",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 09:15:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:55:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX254",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33S",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:15:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:55:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2025,
+				"tax": 355,
+				"ticket": 3,
+				"attr": {
+					"sort": 2247.3
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBNEkwYzAwNTAwd3MyMTBhBQsMX2MyMRkhHQFYRzAwQ04xNTEwRzAwMTFHeDkwMDBZZ20ZLBBPIiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 340,
+		"fltoday": 0,
+		"painindex": 3513
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "KHN",
+				"aportsname": "昌北",
+				"cityname": "南昌",
+				"city": "KHN",
+				"bsname": "T2",
+				"cityid": "376"
+			},
+			"basinfo": {
+				"aircode": "ZH",
+				"airsname": "深圳航空",
+				"flgno": "ZH9510",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "319",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 18:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 20:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "KHN",
+				"aportsname": "昌北",
+				"cityname": "南昌",
+				"city": "KHN",
+				"bsname": null,
+				"cityid": "376"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "ZH",
+				"airsname": "深圳航空",
+				"flgno": "ZH9079",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "73F",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 16:30:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 18:35:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2050,
+				"tax": 418,
+				"ticket": 4,
+				"attr": {
+					"sort": 2333.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZ1cwNTBiOVk2WDBlVzA2MFpUbzZYGSEVAQUTTENXbzUxMEcwMDNHb0I4dTAwZXFXBRkFARA4IiwicyUEIENyaXRlcmlhVA1xkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 1465,
+		"fltoday": 1,
+		"painindex": 7351
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "XMN",
+				"aportsname": "高崎",
+				"cityname": "厦门",
+				"city": "XMN",
+				"bsname": "T3",
+				"cityid": "25"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF8546",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 22:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-06 00:15:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 1
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "XMN",
+				"aportsname": "高崎",
+				"cityname": "厦门",
+				"city": "XMN",
+				"bsname": "T3",
+				"cityid": "25"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF881",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 16:55:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 18:45:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2606,
+				"tax": 434,
+				"ticket": 9,
+				"attr": {
+					"sort": 2824.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwYlcwNTBYT1haSAELGDYwM1NIWkgZIR0BHEcwMEZ2LTUxAQkoMWhIMzBPMDBnT1cZLBA2IiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 1215,
+		"fltoday": 1,
+		"painindex": 7090
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "ICN",
+				"aportsname": "仁川",
+				"cityname": "首尔",
+				"city": "SEL",
+				"bsname": "T1",
+				"cityid": "274"
+			},
+			"basinfo": {
+				"aircode": "KE",
+				"airsname": "大韩航空",
+				"flgno": "KE5864",
+				"ishared": true,
+				"sharedflgno": "MU5061",
+				"sharedairsname": "东方航空"
+			},
+			"craftinfo": {
+				"craft": "323",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 10:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 13:30:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "ICN",
+				"aportsname": "仁川",
+				"cityname": "首尔",
+				"city": "SEL",
+				"bsname": "T2",
+				"cityid": "274"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "KE",
+				"airsname": "大韩航空",
+				"flgno": "KE693",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "332",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 16:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 17:40:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2567,
+				"tax": 563,
+				"ticket": 6,
+				"attr": {
+					"sort": 2917.15
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZmdjYjBNdzFJbjBmVzA1MDJqSEluGSEdARxHMDBGZ2w1MQEJLDFPMDkyTzAwcy1tOBUjEDUiLCJzJQQcQ3JpdGVyaWERcZBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElUfBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 450,
+		"fltoday": 0,
+		"painindex": 4630
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "ICN",
+				"aportsname": "仁川",
+				"cityname": "首尔",
+				"city": "SEL",
+				"bsname": "T1",
+				"cityid": "274"
+			},
+			"basinfo": {
+				"aircode": "KE",
+				"airsname": "大韩航空",
+				"flgno": "KE5880",
+				"ishared": true,
+				"sharedflgno": "MU5051",
+				"sharedairsname": "东方航空"
+			},
+			"craftinfo": {
+				"craft": "33L",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 17:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 20:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "ICN",
+				"aportsname": "仁川",
+				"cityname": "首尔",
+				"city": "SEL",
+				"bsname": "T2",
+				"cityid": "274"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "KE",
+				"airsname": "大韩航空",
+				"flgno": "KE691",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 10:35:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 12:05:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2567,
+				"tax": 563,
+				"ticket": 9,
+				"attr": {
+					"sort": 2917.15
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZmdjYjBNLTFJbjBmVzA2MDJpbkluGSEdARxHMDBGZ2w1MQEJLDFPMDkyTzAwcy1tOBUjEDUiLCJzJQQcQ3JpdGVyaWERcZBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElUfBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 1105,
+		"fltoday": 1,
+		"painindex": 6813
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "VVO",
+				"aportsname": "符拉迪沃斯托克",
+				"cityname": "海参崴",
+				"city": "VVO",
+				"bsname": null,
+				"cityid": "628"
+			},
+			"basinfo": {
+				"aircode": "S7",
+				"airsname": "S7 Airlines",
+				"flgno": "S76246",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "32N",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 02:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 07:30:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "VVO",
+				"aportsname": "符拉迪沃斯托克",
+				"cityname": "海参崴",
+				"city": "VVO",
+				"bsname": null,
+				"cityid": "628"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "S7",
+				"airsname": "S7 Airlines",
+				"flgno": "S76253",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "320",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:55:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 15:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2419,
+				"tax": 715,
+				"ticket": 7,
+				"attr": {
+					"sort": 2975.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBOEkwY1cwNTBPUGVhbjBkMAELDFJPYW4ZIR0BHEcwMEVteDUxAQkoMk8wOTJPMDE1cW0ZLBBZIiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVEBkfBCdHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 805,
+		"fltoday": 0,
+		"painindex": 5817
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "BKK",
+				"aportsname": "素万那普",
+				"cityname": "曼谷",
+				"city": "BKK",
+				"bsname": "",
+				"cityid": "359"
+			},
+			"basinfo": {
+				"aircode": "TG",
+				"airsname": "泰国国际航空",
+				"flgno": "TG663",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "359",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 07:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:05:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "BKK",
+				"aportsname": "素万那普",
+				"cityname": "曼谷",
+				"city": "BKK",
+				"bsname": "",
+				"cityid": "359"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "TG",
+				"airsname": "泰国国际航空",
+				"flgno": "TG636",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "777",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 17:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 22:20:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2742,
+				"tax": 451,
+				"ticket": 9,
+				"attr": {
+					"sort": 3013.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwaFcwNTAyYm5yMQ0LDFYxcjEZIRUBBRNMR2w2NTEwRzAwMlpCSjMwMDBpMm0FGQUBEDciLCJzJQQgQ3JpdGVyaWFUDXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 890,
+		"fltoday": 0,
+		"painindex": 6159
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR771",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 19:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 21:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2008,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 2260.87
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaVcwNTAzMHFXWBkWHQEcRzAwQ0dPNTEBCSgwSXcyd08wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 125,
+		"fltoday": 0,
+		"painindex": 2809
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CI",
+				"airsname": "中华航空",
+				"flgno": "CI504",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 19:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 21:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2008,
+				"tax": 385,
+				"ticket": 8,
+				"attr": {
+					"sort": 2261.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaVcwNTAxLTJHbhkWFQEFE0xDR081MTBHMDAwUjhwR0cwMGJjRwUZBQEQOSIsInMF+RxDcml0ZXJpYRFmkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVG8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 2793
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR721",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 20:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 22:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2008,
+				"tax": 385,
+				"ticket": 6,
+				"attr": {
+					"sort": 2260.87
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaVcwNTAycUtXWBkWHQEcRzAwQ0dPNTEBCSgwSXcyd08wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2776
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "B7",
+				"airsname": "立荣航空",
+				"flgno": "B77017",
+				"ishared": true,
+				"sharedflgno": "BR721",
+				"sharedairsname": "长荣航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 20:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 22:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2056,
+				"tax": 385,
+				"ticket": 6,
+				"attr": {
+					"sort": 2305.79
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaWYxNTBSUU9XWBkWHQEcRzAwQ1o4NTEBCSgwSDNIWjAwMGJjRxksEFkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRgGR8EJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2824
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR2731",
+				"ishared": true,
+				"sharedflgno": "HO1309",
+				"sharedairsname": "吉祥航空"
+			},
+			"craftinfo": {
+				"craft": "789",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:55:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:10:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2077,
+				"tax": 385,
+				"ticket": 4,
+				"attr": {
+					"sort": 2325.37
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaWRhNTBBZ3FXWBkWHQEcRzAwQ2hMNTEBCSgwSXcyd08wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 135,
+		"fltoday": 0,
+		"painindex": 2912
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HO",
+				"airsname": "吉祥航空",
+				"flgno": "HO3181",
+				"ishared": true,
+				"sharedflgno": "BR711",
+				"sharedairsname": "长荣航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 15:05:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2159,
+				"tax": 364,
+				"ticket": 4,
+				"attr": {
+					"sort": 2344.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwYTkxNTBDUkpvMRkWHQEcRzAwREJONTEBCSgxM0gzME8wMFpaMBksEEYiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBEHRHcmFkIUbwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2906
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CI",
+				"airsname": "中华航空",
+				"flgno": "CI506",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "744",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 20:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 22:55:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2210,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 2450.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwWDAwNTAxLVlHbhkWFQEFE0xEVkk1MTBHMDAwUFpHcDAwMGJjRwUZBQEQOSIsInMF+RxDcml0ZXJpYRFmkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVG8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 125,
+		"fltoday": 0,
+		"painindex": 3011
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "FM",
+				"airsname": "上海航空",
+				"flgno": "FM801",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "73H",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 09:25:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:05:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2400,
+				"tax": 390,
+				"ticket": 6,
+				"attr": {
+					"sort": 2790.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwWVcwNTAzOEpIWBkWEQEARwUJEEVmVzUxAQwoMWVPSWZlMDBjNVcZLBBMIiwicwX5HENyaXRlcmlhEWaQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJUbwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 100,
+		"fltoday": 0,
+		"painindex": 3123
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CA",
+				"airsname": "中国国航",
+				"flgno": "CA197",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:15:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2360,
+				"tax": 390,
+				"ticket": 9,
+				"attr": {
+					"sort": 2750.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwYTAwNTAwbkdHbhkWFQEARwEKEEVQdTUxBQskUEd1OE8wMGM1VxksEDEiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 3150
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ3095",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33C",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 16:35:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2727,
+				"tax": 290,
+				"ticket": 9,
+				"attr": {
+					"sort": 2868.5
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyMjAwNTBDNXNXbhkWHQEcRzAwR2ZGNTEBCSgwUkd4ME8wMFNLVxksEFEiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 3400
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "9C",
+				"airsname": "春秋航空",
+				"flgno": "9C8951",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "320",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 10:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1220,
+				"tax": 364,
+				"ticket": 6,
+				"attr": {
+					"sort": 1584.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwZzAwNTBZem12MRkWGQFcMjAwMDdTYTUxMEcwMDRZUXdPTzAwWlowGSwQMyIsInMF+RxDcml0ZXJpYRFmkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVG8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 125,
+		"fltoday": 0,
+		"painindex": 2000
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR711",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 15:05:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1205,
+				"tax": 385,
+				"ticket": 9,
+				"attr": {
+					"sort": 1510.7
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwZlcwNTAybnFXWBkWHQEcRzAwN01qNTEBCSgwSXcyd08wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 1973
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR751",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 16:00:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 18:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1205,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 1510.7
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwZlcwNTAyeHFXWBkWHQEcRzAwN01qNTEBCSgwSXcyd08wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 1990
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "B7",
+				"airsname": "立荣航空",
+				"flgno": "B77015",
+				"ishared": true,
+				"sharedflgno": "BR711",
+				"sharedairsname": "长荣航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 15:05:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1220,
+				"tax": 385,
+				"ticket": 9,
+				"attr": {
+					"sort": 1524.67
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwZmYxNTBSUHVXWBkWHQEcRzAwN1NhNTEBCSgwSDNIWjAwMGJjRxksEFkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRgGR8EJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 1988
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CA",
+				"airsname": "中国国航",
+				"flgno": "CA195",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 11:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 13:25:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1570,
+				"tax": 390,
+				"ticket": 9,
+				"attr": {
+					"sort": 1960.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaFcwNTAwbW1HbhkWFQEARwEKEDliSTUxBQskUEd1OE8wMGM1VxksEDEiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2343
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HO",
+				"airsname": "吉祥航空",
+				"flgno": "HO1309",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "789",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:55:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:10:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1644,
+				"tax": 364,
+				"ticket": 9,
+				"attr": {
+					"sort": 1899.84
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaDAwNTA1N0pvMRkWHQEcRzAwQTJDNTEBCSwxMUlYMk8wMFpaMDgVIxBGIiwicwX5JENyaXRlcmlhVG8JZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 135,
+		"fltoday": 0,
+		"painindex": 2458
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "B7",
+				"airsname": "立荣航空",
+				"flgno": "B77019",
+				"ishared": true,
+				"sharedflgno": "BR751",
+				"sharedairsname": "长荣航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 16:00:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 18:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1787,
+				"tax": 385,
+				"ticket": 1,
+				"attr": {
+					"sort": 2054.71
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwY2YxNTBSUXVXWBkWHQEcRzAwQXczNTEBCSgwSDNIWjAwMGJjRxksEFkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRgGR8EJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 2572
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "FM",
+				"airsname": "上海航空",
+				"flgno": "FM851",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 10:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1800,
+				"tax": 390,
+				"ticket": 2,
+				"attr": {
+					"sort": 2190.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBMEgwYlcwNTAzS3BIWDgBETIBAABHBQ4QQV84NTEBDCgxZU9JZmUwMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2573
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU9851",
+				"ishared": true,
+				"sharedflgno": "FM851",
+				"sharedairsname": "上海航空"
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 10:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1800,
+				"tax": 390,
+				"ticket": 2,
+				"attr": {
+					"sort": 2190.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBMEgwYmNaNTBjVXJKSDgBETIBAABHBQ4QQV84NTEBDCgxZU9JZmUwMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 2573
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CI",
+				"airsname": "中华航空",
+				"flgno": "CI502",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1950,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 2207.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwWDAwNTAxellHbhkWFQEFE0xCdms1MTBHMDAwUjhwR0cwMGJjRwUZBQEQOSIsInMF+RxDcml0ZXJpYRFmkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVG8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 130,
+		"fltoday": 0,
+		"painindex": 2768
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU5007",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33E",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:25:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:25:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2700,
+				"tax": 390,
+				"ticket": 5,
+				"attr": {
+					"sort": 2990.5
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyOFcwNTBKWnJKSBkWHQEcRzAwR1VpNTEBCSgxZ1lXSG0wMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 3490
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU5097",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 16:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2700,
+				"tax": 390,
+				"ticket": 9,
+				"attr": {
+					"sort": 3010.75
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwY1cwNTBKd0xKSBkWHQEcRzAwR1VpNTEBCSgxZ1lXSG0wMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 3473
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TSA",
+				"aportsname": "松山",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "FM",
+				"airsname": "上海航空",
+				"flgno": "FM5097",
+				"ishared": true,
+				"sharedflgno": "MU5097",
+				"sharedairsname": "东方航空"
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 16:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 2700,
+				"tax": 390,
+				"ticket": 9,
+				"attr": {
+					"sort": 3090.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwY2djYjBKd0pIWBkWHQEcRzAwR1VpNTEBCSgwbTA5Mk8wMGM1VxksEEQiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 3473
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ4816",
+				"ishared": true,
+				"sharedflgno": "CI506",
+				"sharedairsname": "中华航空"
+			},
+			"craftinfo": {
+				"craft": "744",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 20:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 22:55:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 3434,
+				"tax": 290,
+				"ticket": 3,
+				"attr": {
+					"sort": 3690.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwWDRYYjBJcTZXbhkWHQEcRzAwS3pRNTEBCSgwTzA5Mk8wMFNLVxksEFEiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 125,
+		"fltoday": 0,
+		"painindex": 4140
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU5005",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33H",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 16:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 17:40:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 3600,
+				"tax": 390,
+				"ticket": 5,
+				"attr": {
+					"sort": 3859.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyMjAwNTBKWkxKSBkWHQEcRzAwTC1HNTEBCSgxZ1lXSG0wMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 90,
+		"fltoday": 0,
+		"painindex": 4290
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU8902",
+				"ishared": true,
+				"sharedflgno": "CI502",
+				"sharedairsname": "中华航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 3660,
+				"tax": 390,
+				"ticket": 4,
+				"attr": {
+					"sort": 4050.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyMjRYYjBZbmJKSBkWHQEcRzAwTUxpNTEBCSgxZTA5Mk8wMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 130,
+		"fltoday": 0,
+		"painindex": 4483
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MU",
+				"airsname": "东方航空",
+				"flgno": "MU8904",
+				"ishared": true,
+				"sharedflgno": "CI504",
+				"sharedairsname": "中华航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 19:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 21:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 3870,
+				"tax": 390,
+				"ticket": 6,
+				"attr": {
+					"sort": 4260.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgwaWFYYjBZbzVKSBkWHQEcRzAwTmRrNTEBCSgxZTA5Mk8wMGM1VxksEEwiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 120,
+		"fltoday": 0,
+		"painindex": 4660
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "BR",
+				"airsname": "长荣航空",
+				"flgno": "BR2781",
+				"ishared": true,
+				"sharedflgno": "CA195",
+				"sharedairsname": "中国国航"
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 11:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 13:25:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 4565,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 4632.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyMVdYYjBBdEtXWBkWHQEcRzAwUnRENTEBCSgwRzA5Mk8wMGJjRxksEEkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 5333
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "B7",
+				"airsname": "立荣航空",
+				"flgno": "B77009",
+				"ishared": true,
+				"sharedflgno": "CA195",
+				"sharedairsname": "中国国航"
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 11:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 13:25:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 5327,
+				"tax": 385,
+				"ticket": 2,
+				"attr": {
+					"sort": 5344.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyMVdYYjBST09XWBkWHQEcRzAwV1d0NTEBCSgwRzA5Mk8wMGJjRxksEFkiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRgGR8EJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 115,
+		"fltoday": 0,
+		"painindex": 6095
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ4804",
+				"ishared": true,
+				"sharedflgno": "CI502",
+				"sharedairsname": "中华航空"
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 5677,
+				"tax": 290,
+				"ticket": 4,
+				"attr": {
+					"sort": 5910.0
+				}
+			}],
+			"pid": "8wNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEgyNTRYYjBJbjZXbhkWHQEcRzAwWWZiNTEBCSgwTzA5Mk8wMFNLVxksEFEiLCJzBfkcQ3JpdGVyaWERZpBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElRvBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 130,
+		"fltoday": 0,
+		"painindex": 6400
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX235",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33T",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 09:15:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:55:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX282",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 17:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 19:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1357,
+				"tax": 355,
+				"ticket": 9,
+				"attr": {
+					"sort": 1623.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZDAwNTAwd3MyMTBiVzA1MDE2YzIxGSEdARxHMDA4STU1MQEJKDExR3g5MDAwWWdtGSwQTyIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 635,
+		"fltoday": 0,
+		"painindex": 3828
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "KA",
+				"airsname": "国泰港龙航空",
+				"flgno": "KA871",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "321",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 08:00:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 11:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX400",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "773",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 13:10:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 15:10:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1301,
+				"tax": 417,
+				"ticket": 4,
+				"attr": {
+					"sort": 1632.2
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwZlcwNTAzUG1JbgkLEDFhNjBuGSEdAVhHMDA3eUQ1MTBHMDAxT0dnWE8wMGVrRxksEDEiLCJzJQQcQ3JpdGVyaWERcZBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElUfBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 430,
+		"fltoday": 0,
+		"painindex": 3151
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "KA",
+				"airsname": "国泰港龙航空",
+				"flgno": "KA893",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "321",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 15:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 18:40:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX446",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "359",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 06:55:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 08:50:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1301,
+				"tax": 523,
+				"ticket": 4,
+				"attr": {
+					"sort": 1738.2
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwZlcwNTAzVkdJbgELGDYwMWxjMG4ZIR0BWEcwMDd5RDUxMEcwMDFPR2dYTzAwcDRtGSwQMSIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 1020,
+		"fltoday": 1,
+		"painindex": 5224
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX365",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "773",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 09:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 12:30:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX484",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 16:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1507,
+				"tax": 417,
+				"ticket": 7,
+				"attr": {
+					"sort": 1824.55
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwaDAwNTAxUk0wbg0LDHY2MG4ZIR0BHEcwMDlDaDUxAQkoMFI4R1FXMDBla0cZLBBPIiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 425,
+		"fltoday": 0,
+		"painindex": 3340
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "KA",
+				"airsname": "国泰港龙航空",
+				"flgno": "KA857",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "321",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 07:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 10:00:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX406",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 12:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1514,
+				"tax": 417,
+				"ticket": 1,
+				"attr": {
+					"sort": 1831.42
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwaDAwNTAzTUdJbgkLEDFiYzBuGSEdARxHMDA5RlE1MQEJKDFPR2dYTzAwZWtHGSwQMSIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 415,
+		"fltoday": 0,
+		"painindex": 3314
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX237",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 11:55:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 14:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX282",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "333",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 17:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 19:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1664,
+				"tax": 355,
+				"ticket": 9,
+				"attr": {
+					"sort": 1909.91
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBNEkwY1cwNTAweE0yMTBiAQsQMTZjMjEZIR0BHEcwMEFBMDUxAQkoMTFHeDkwMDBZZ20ZLBBPIiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 475,
+		"fltoday": 0,
+		"painindex": 3602
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX369",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "772",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 17:45:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 20:30:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX446",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "359",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 06:55:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 08:50:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1507,
+				"tax": 523,
+				"ticket": 5,
+				"attr": {
+					"sort": 1930.55
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBLEkwaDAwNTAxU00wbgELGDYwMWxjMG4ZIR0BHEcwMDlDaDUxAQkoMFI4R1FXMDBwNG0ZLBBPIiwicyUEHENyaXRlcmlhEXGQS0xVdl9RQlFHUUlBQ3dnQkVKTWtHSlNvQVNDQThMajd1eTBNRQEY8D5BRVlBUlFZQVNBQktBUXdBRU1vQURBQU9BQkFBRWdBVUFDQUFRQ1FBUUNvQVFDNEFRQkVTQUJRQUdEU1JnPT0JgQx0R3JhJVHwRlkiLCJ0cmFuc2FjdGlvbmlkIjoiNTk0NjQ4NWQtM2ZmOS00YzQ4LWFkNTctZGYzZDQ0N2VlZjk3IiwidHJpcFR5cGUiOjF9"
+		}],
+		"duration": 905,
+		"fltoday": 1,
+		"painindex": 5046
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HAK",
+				"aportsname": "美兰",
+				"cityname": "海口",
+				"city": "HAK",
+				"bsname": "",
+				"cityid": "42"
+			},
+			"basinfo": {
+				"aircode": "HU",
+				"airsname": "海南航空",
+				"flgno": "HU7120",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 06:50:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 09:40:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HAK",
+				"aportsname": "美兰",
+				"cityname": "海口",
+				"city": "HAK",
+				"bsname": "",
+				"cityid": "42"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HU",
+				"airsname": "海南航空",
+				"flgno": "HU7947",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 15:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 17:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1650,
+				"tax": 395,
+				"ticket": 9,
+				"attr": {
+					"sort": 1958.5
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwaVcwNTBScTVJMTBoMDA1MFYyckkxGSEdARxHMDBBNFk1MQEJKDEwaEIyTzAwY2FtGSwQTCIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEQdEdyYWQhUfBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 660,
+		"fltoday": 0,
+		"painindex": 4245
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "SWA",
+				"aportsname": "潮汕",
+				"cityname": "揭阳",
+				"city": "SWA",
+				"bsname": "",
+				"cityid": "956"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ3854",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 22:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-06 00:40:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 1
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "SWA",
+				"aportsname": "潮汕",
+				"cityname": "揭阳",
+				"city": "SWA",
+				"bsname": "",
+				"cityid": "956"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CZ",
+				"airsname": "南方航空",
+				"flgno": "CZ8325",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "73N",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 08:00:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 09:30:00",
+				"aweek": "周六",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1728,
+				"tax": 340,
+				"ticket": 9,
+				"attr": {
+					"sort": 2050.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwYzAwNTBGM2NXbjBZVzA2MFdYTVduGSEdARxHMDBBWjA1MQEJKDBSR3gwTzAwWEQwGSwQUSIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 685,
+		"fltoday": 1,
+		"painindex": 4351
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX239",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "33S",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 19:15:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 21:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "HX",
+				"airsname": "香港航空",
+				"flgno": "HX252",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "332",
+				"kind": "大",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 09:10:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 11:15:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1664,
+				"tax": 461,
+				"ticket": 9,
+				"attr": {
+					"sort": 2015.91
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwY1cwNTAweHMyMTBiVzA2MDBfNjIxGSEdARxHMDBBQTA1MQEJKDExR3g5MDAwajFHGSwQTyIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 960,
+		"fltoday": 1,
+		"painindex": 5325
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"basinfo": {
+				"aircode": "KA",
+				"airsname": "国泰港龙航空",
+				"flgno": "KA833",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "321",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:30:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 17:15:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "HKG",
+				"aportsname": "香港",
+				"cityname": "香港",
+				"city": "HKG",
+				"bsname": "T1",
+				"cityid": "58"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T1",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "CX",
+				"airsname": "国泰航空",
+				"flgno": "CX464",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "77W",
+				"kind": "大",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 19:20:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 21:20:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1727,
+				"tax": 417,
+				"ticket": 2,
+				"attr": {
+					"sort": 2030.64
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBMEkwYzAwNTAzR0dJbjAFCxAxcTYwbhkhHQEcRzAwQVlkNTEBCSgxT0dnWE8wMGVrRxksEDEiLCJzJQQcQ3JpdGVyaWERcZBLTFV2X1FCUUdRSUFDd2dCRUpNa0dKU29BU0NBOExqN3V5ME1FARjwPkFFWUFSUVlBU0FCS0FRd0FFTW9BREFBT0FCQUFFZ0FVQUNBQVFDUUFRQ29BUUM0QVFCRVNBQlFBR0RTUmc9PQmBDHRHcmElUfBGWSIsInRyYW5zYWN0aW9uaWQiOiI1OTQ2NDg1ZC0zZmY5LTRjNDgtYWQ1Ny1kZjNkNDQ3ZWVmOTciLCJ0cmlwVHlwZSI6MX0="
+		}],
+		"duration": 410,
+		"fltoday": 0,
+		"painindex": 3510
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T1",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "SJW",
+				"aportsname": "正定",
+				"cityname": "石家庄",
+				"city": "SJW",
+				"bsname": "T2",
+				"cityid": "428"
+			},
+			"basinfo": {
+				"aircode": "9C",
+				"airsname": "春秋航空",
+				"flgno": "9C8903",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "186",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 07:45:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 09:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "SJW",
+				"aportsname": "正定",
+				"cityname": "石家庄",
+				"city": "SJW",
+				"bsname": "",
+				"cityid": "428"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "9C",
+				"airsname": "春秋航空",
+				"flgno": "9C8561",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "320",
+				"kind": "中",
+				"cname": "空中客车"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 14:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 18:50:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1740,
+				"tax": 414,
+				"ticket": 1,
+				"attr": {
+					"sort": 2154.0
+				}
+			}],
+			"pid": "iwRYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATB9XSwicGFzc2VuZ2VyBXBIOnsiQWR1bHQiOjF9LCJyb3V0ZQmbIFRva2VuIjoiOAU5AQFYSTBXMDA1MFlubXYxMGVXMDUwWFNHdjEZIRkBYDIwMDBBZGk1MTBHMDA0WVF3T08wMGVSVzgVI0QzfHwhS0lZUT09PT0sUSIsInMlERxDcml0ZXJpYRF+kEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVe8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 665,
+		"fltoday": 0,
+		"painindex": 4370
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "PVG",
+				"aportsname": "浦东",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "JJN",
+				"aportsname": "晋江",
+				"cityname": "泉州",
+				"city": "JJN",
+				"bsname": "",
+				"cityid": "406"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF8550",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 18:40:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 20:40:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "JJN",
+				"aportsname": "晋江",
+				"cityname": "泉州",
+				"city": "JJN",
+				"bsname": "",
+				"cityid": "406"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF859",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 09:00:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 10:45:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1755,
+				"tax": 434,
+				"ticket": 9,
+				"attr": {
+					"sort": 2044.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZjAwNTBYUFhaSDBjMDA2MDNNblpIGSEdARxHMDBBalo1MQEJKDFoSDMwTzAwZ09XGSwQNiIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 965,
+		"fltoday": 1,
+		"painindex": 5405
+	}, {
+		"mutilstn": [{
+			"segno": 1,
+			"seqid": 1,
+			"dportinfo": {
+				"aport": "SHA",
+				"aportsname": "虹桥",
+				"cityname": "上海",
+				"city": "SHA",
+				"bsname": "T2",
+				"cityid": "2"
+			},
+			"aportinfo": {
+				"aport": "JJN",
+				"aportsname": "晋江",
+				"cityname": "泉州",
+				"city": "JJN",
+				"bsname": "",
+				"cityid": "406"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF8516",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-05 22:05:00",
+				"dweek": "周五",
+				"adate": "2019-07-05 23:45:00",
+				"aweek": "周五",
+				"doday": 0,
+				"aoday": 0
+			}
+		}, {
+			"segno": 1,
+			"seqid": 2,
+			"dportinfo": {
+				"aport": "JJN",
+				"aportsname": "晋江",
+				"cityname": "泉州",
+				"city": "JJN",
+				"bsname": "",
+				"cityid": "406"
+			},
+			"aportinfo": {
+				"aport": "TPE",
+				"aportsname": "桃园",
+				"cityname": "台北",
+				"city": "TPE",
+				"bsname": "T2",
+				"cityid": "617"
+			},
+			"basinfo": {
+				"aircode": "MF",
+				"airsname": "厦门航空",
+				"flgno": "MF859",
+				"ishared": false
+			},
+			"craftinfo": {
+				"craft": "738",
+				"kind": "中",
+				"cname": "波音"
+			},
+			"dateinfo": {
+				"ddate": "2019-07-06 09:00:00",
+				"dweek": "周六",
+				"adate": "2019-07-06 10:45:00",
+				"aweek": "周六",
+				"doday": 1,
+				"aoday": 0
+			}
+		}],
+		"policyinfo": [{
+			"priceinfo": [{
+				"price": 1810,
+				"tax": 434,
+				"ticket": 9,
+				"attr": {
+					"sort": 2094.0
+				}
+			}],
+			"pid": "/gNYeyJhZ2dWMyI6ZmFsc2UsImNyYXdsZXIVEJhmbGlnaHRTZWFyY2hTb3VyY2VUeXBlIjoiTGlzdCIsIm9yaWdpbkYFJlRXYXlzIjpbeyJhcnJpdmVDaXR5Q29kAS0sVFBFIiwiZGVwYXJ0HRcIU0hBFRc0RGF0ZSI6MTU2MjI1NjAFATR9XSwicGFzc2VuZ2VyTAFwSDp7IkFkdWx0IjoxfSwicm91dGUJmyBUb2tlbiI6IjgFOQEBWEkwZzAwNTBYSDFaSDBjMDA2MDNNblpIGSEdARxHMDBCMzI1MQEJKDFoSDMwTzAwZ09XGSwQNiIsInMlBBxDcml0ZXJpYRFxkEtMVXZfUUJRR1FJQUN3Z0JFSk1rR0pTb0FTQ0E4TGo3dXkwTUUBGPA+QUVZQVJRWUFTQUJLQVF3QUVNb0FEQUFPQUJBQUVnQVVBQ0FBUUNRQVFDb0FRQzRBUUJFU0FCUUFHRFNSZz09CYEMdEdyYSVR8EZZIiwidHJhbnNhY3Rpb25pZCI6IjU5NDY0ODVkLTNmZjktNGM0OC1hZDU3LWRmM2Q0NDdlZWY5NyIsInRyaXBUeXBlIjoxfQ=="
+		}],
+		"duration": 760,
+		"fltoday": 1,
+		"painindex": 4777
+	}],
+	"cityclass": "NI",
+	"rlt": 0,
+	"rltmsg": "上海|台北",
+	"lpainIndex": 1773,
+	"lpricetax": 1590,
+	"iscomplete": false
+}
